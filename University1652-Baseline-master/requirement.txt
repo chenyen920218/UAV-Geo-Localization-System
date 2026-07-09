@@ -1,3 +1,0 @@
-matplotlib
-pyyaml
-pytorch_metric_learning
